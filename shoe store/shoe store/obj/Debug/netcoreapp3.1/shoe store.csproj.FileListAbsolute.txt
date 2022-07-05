@@ -1,0 +1,61 @@
+C:\Users\Leander\source\repos\shoe store\shoe store\bin\Debug\netcoreapp3.1\shoe store.exe
+C:\Users\Leander\source\repos\shoe store\shoe store\bin\Debug\netcoreapp3.1\shoe store.deps.json
+C:\Users\Leander\source\repos\shoe store\shoe store\bin\Debug\netcoreapp3.1\shoe store.runtimeconfig.json
+C:\Users\Leander\source\repos\shoe store\shoe store\bin\Debug\netcoreapp3.1\shoe store.runtimeconfig.dev.json
+C:\Users\Leander\source\repos\shoe store\shoe store\bin\Debug\netcoreapp3.1\shoe store.dll
+C:\Users\Leander\source\repos\shoe store\shoe store\bin\Debug\netcoreapp3.1\shoe store.pdb
+C:\Users\Leander\source\repos\shoe store\shoe store\obj\Debug\netcoreapp3.1\shoe store.csproj.AssemblyReference.cache
+C:\Users\Leander\source\repos\shoe store\shoe store\obj\Debug\netcoreapp3.1\shoe_store.dashboard.resources
+C:\Users\Leander\source\repos\shoe store\shoe store\obj\Debug\netcoreapp3.1\shoe_store.Form1.resources
+C:\Users\Leander\source\repos\shoe store\shoe store\obj\Debug\netcoreapp3.1\shoe_store.Properties.Resources.resources
+C:\Users\Leander\source\repos\shoe store\shoe store\obj\Debug\netcoreapp3.1\shoe store.csproj.GenerateResource.cache
+C:\Users\Leander\source\repos\shoe store\shoe store\obj\Debug\netcoreapp3.1\shoe store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leander\source\repos\shoe store\shoe store\obj\Debug\netcoreapp3.1\shoe store.AssemblyInfoInputs.cache
+C:\Users\Leander\source\repos\shoe store\shoe store\obj\Debug\netcoreapp3.1\shoe store.AssemblyInfo.cs
+C:\Users\Leander\source\repos\shoe store\shoe store\obj\Debug\netcoreapp3.1\shoe store.csproj.CoreCompileInputs.cache
+C:\Users\Leander\source\repos\shoe store\shoe store\obj\Debug\netcoreapp3.1\shoe store.dll
+C:\Users\Leander\source\repos\shoe store\shoe store\obj\Debug\netcoreapp3.1\shoe store.pdb
+C:\Users\Leander\source\repos\shoe store\shoe store\obj\Debug\netcoreapp3.1\shoe store.genruntimeconfig.cache
+C:\Users\Leander\source\repos\shoe store\shoe store\obj\Debug\netcoreapp3.1\shoe_store.register.resources
+C:\Users\Leander\source\repos\shoe store\shoe store\bin\Debug\netcoreapp3.1\Oracle.ManagedDataAccess.dll
+C:\Users\Leander\source\repos\shoe store\shoe store\bin\Debug\netcoreapp3.1\Interop.ORAOLEDBLib.dll
+C:\Users\Leander\source\repos\shoe store\shoe store\bin\Debug\netcoreapp3.1\Interop.OracleInProcServer.dll
+C:\Users\Leander\source\repos\shoe store\shoe store\bin\Debug\netcoreapp3.1\Interop.ORADCLib.dll
+C:\Users\Leander\source\repos\shoe store\shoe store\obj\Debug\netcoreapp3.1\Interop.ORAOLEDBLib.dll
+C:\Users\Leander\source\repos\shoe store\shoe store\obj\Debug\netcoreapp3.1\Interop.OracleInProcServer.dll
+C:\Users\Leander\source\repos\shoe store\shoe store\obj\Debug\netcoreapp3.1\Interop.ORADCLib.dll
+C:\Users\Leander\source\repos\shoe store\shoe store\obj\Debug\netcoreapp3.1\shoe store.csproj.ResolveComReference.cache
+C:\Users\Leander\source\repos\shoe store\shoe store\obj\Debug\netcoreapp3.1\shoe store.csproj.CopyComplete
+D:\Dbms project\backup\backup 2.0\shoe store\shoe store\bin\Debug\netcoreapp3.1\shoe store.exe
+D:\Dbms project\backup\backup 2.0\shoe store\shoe store\bin\Debug\netcoreapp3.1\shoe store.deps.json
+D:\Dbms project\backup\backup 2.0\shoe store\shoe store\bin\Debug\netcoreapp3.1\shoe store.runtimeconfig.json
+D:\Dbms project\backup\backup 2.0\shoe store\shoe store\bin\Debug\netcoreapp3.1\shoe store.runtimeconfig.dev.json
+D:\Dbms project\backup\backup 2.0\shoe store\shoe store\bin\Debug\netcoreapp3.1\shoe store.dll
+D:\Dbms project\backup\backup 2.0\shoe store\shoe store\bin\Debug\netcoreapp3.1\shoe store.pdb
+D:\Dbms project\backup\backup 2.0\shoe store\shoe store\bin\Debug\netcoreapp3.1\Oracle.ManagedDataAccess.dll
+D:\Dbms project\backup\backup 2.0\shoe store\shoe store\bin\Debug\netcoreapp3.1\Interop.ORAOLEDBLib.dll
+D:\Dbms project\backup\backup 2.0\shoe store\shoe store\bin\Debug\netcoreapp3.1\Interop.OracleInProcServer.dll
+D:\Dbms project\backup\backup 2.0\shoe store\shoe store\bin\Debug\netcoreapp3.1\Interop.ORADCLib.dll
+D:\Dbms project\backup\backup 2.0\shoe store\shoe store\obj\Debug\netcoreapp3.1\Interop.ORAOLEDBLib.dll
+D:\Dbms project\backup\backup 2.0\shoe store\shoe store\obj\Debug\netcoreapp3.1\Interop.OracleInProcServer.dll
+D:\Dbms project\backup\backup 2.0\shoe store\shoe store\obj\Debug\netcoreapp3.1\Interop.ORADCLib.dll
+D:\Dbms project\backup\backup 2.0\shoe store\shoe store\obj\Debug\netcoreapp3.1\shoe store.csproj.ResolveComReference.cache
+D:\Dbms project\backup\backup 2.0\shoe store\shoe store\obj\Debug\netcoreapp3.1\shoe_store.dashboard.resources
+D:\Dbms project\backup\backup 2.0\shoe store\shoe store\obj\Debug\netcoreapp3.1\shoe_store.Form1.resources
+D:\Dbms project\backup\backup 2.0\shoe store\shoe store\obj\Debug\netcoreapp3.1\shoe_store.Properties.Resources.resources
+D:\Dbms project\backup\backup 2.0\shoe store\shoe store\obj\Debug\netcoreapp3.1\shoe_store.register.resources
+D:\Dbms project\backup\backup 2.0\shoe store\shoe store\obj\Debug\netcoreapp3.1\shoe store.csproj.GenerateResource.cache
+D:\Dbms project\backup\backup 2.0\shoe store\shoe store\obj\Debug\netcoreapp3.1\shoe store.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dbms project\backup\backup 2.0\shoe store\shoe store\obj\Debug\netcoreapp3.1\shoe store.AssemblyInfoInputs.cache
+D:\Dbms project\backup\backup 2.0\shoe store\shoe store\obj\Debug\netcoreapp3.1\shoe store.AssemblyInfo.cs
+D:\Dbms project\backup\backup 2.0\shoe store\shoe store\obj\Debug\netcoreapp3.1\shoe store.csproj.CoreCompileInputs.cache
+D:\Dbms project\backup\backup 2.0\shoe store\shoe store\obj\Debug\netcoreapp3.1\shoe store.csproj.CopyComplete
+D:\Dbms project\backup\backup 2.0\shoe store\shoe store\obj\Debug\netcoreapp3.1\shoe store.dll
+D:\Dbms project\backup\backup 2.0\shoe store\shoe store\obj\Debug\netcoreapp3.1\shoe store.pdb
+D:\Dbms project\backup\backup 2.0\shoe store\shoe store\obj\Debug\netcoreapp3.1\shoe store.genruntimeconfig.cache
+D:\Dbms project\backup\backup 2.0\shoe store\shoe store\obj\Debug\netcoreapp3.1\shoe_store.Dash.resources
+D:\Dbms project\backup\backup 2.0\shoe store\shoe store\obj\Debug\netcoreapp3.1\shoe_store.Add.resources
+D:\Dbms project\backup\backup 2.0\shoe store\shoe store\obj\Debug\netcoreapp3.1\shoe_store.Delete.resources
+D:\Dbms project\backup\backup 2.0\shoe store\shoe store\obj\Debug\netcoreapp3.1\shoe_store.ItemDisplay.resources
+D:\Dbms project\backup\backup 2.0\shoe store\shoe store\obj\Debug\netcoreapp3.1\shoe_store.cart.resources
+D:\Dbms project\backup\backup 2.0\shoe store\shoe store\obj\Debug\netcoreapp3.1\shoe store.csproj.AssemblyReference.cache

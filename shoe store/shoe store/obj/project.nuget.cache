@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QODMTPecvd6zZzkKxpg1N9JaHrVcxyKGyhH4565DNKWeSxmcyZS2RnO/xCRNmY6OUZiBglYRVMvgqh7FnhWYsA==",
+  "success": true,
+  "projectFilePath": "D:\\Dbms project\\backup\\backup 2.0\\shoe store\\shoe store\\shoe store.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\odp.netcore\\2.0.12\\odp.netcore.2.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

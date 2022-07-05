@@ -1,0 +1,83 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "shoe store/1.0.0": {
+        "dependencies": {
+          "ODP.NetCore": "2.0.12",
+          "Interop.ORAOLEDBLib": "1.0.0.0",
+          "Interop.OracleInProcServer": "5.0.0.0",
+          "Interop.ORADCLib": "1.0.0.0"
+        },
+        "runtime": {
+          "shoe store.dll": {}
+        }
+      },
+      "ODP.NetCore/2.0.12": {
+        "runtime": {
+          "lib/netstandard2.0/Oracle.ManagedDataAccess.dll": {
+            "assemblyVersion": "2.0.12.0",
+            "fileVersion": "2.0.12.0"
+          }
+        }
+      },
+      "Interop.ORAOLEDBLib/1.0.0.0": {
+        "runtime": {
+          "Interop.ORAOLEDBLib.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Interop.OracleInProcServer/5.0.0.0": {
+        "runtime": {
+          "Interop.OracleInProcServer.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.0.0"
+          }
+        }
+      },
+      "Interop.ORADCLib/1.0.0.0": {
+        "runtime": {
+          "Interop.ORADCLib.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "shoe store/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ODP.NetCore/2.0.12": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JO0XH6/SYOFdxurhxXCa+uMThj4jYNVEOEELPjTcadzVGn0/f3evA6p1cwUoI7IRxDhBGtJc2wDi+cAxUvz76Q==",
+      "path": "odp.netcore/2.0.12",
+      "hashPath": "odp.netcore.2.0.12.nupkg.sha512"
+    },
+    "Interop.ORAOLEDBLib/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Interop.OracleInProcServer/5.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Interop.ORADCLib/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
